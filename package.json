@@ -1,0 +1,33 @@
+{
+  "name": "expressso-js",
+  "version": "1.0.0",
+  "description": "Uma aplicação Express.js para brincar com as funcionalidades do Node.js.",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "helmet": "^3.9.0",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marivaldosena/expresso-js.git"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "Web",
+    "App",
+    "REST",
+    "API"
+  ],
+  "author": "Marivaldo Sena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marivaldosena/expresso-js/issues"
+  },
+  "homepage": "https://github.com/marivaldosena/expresso-js#readme"
+}

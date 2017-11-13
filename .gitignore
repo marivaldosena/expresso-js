@@ -1,0 +1,5 @@
+.idea
+.code
+.vs
+credentials.json
+node_modules
